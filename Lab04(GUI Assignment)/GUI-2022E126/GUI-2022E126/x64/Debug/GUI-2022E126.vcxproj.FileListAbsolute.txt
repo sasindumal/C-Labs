@@ -1,0 +1,3 @@
+E:\C++\Lab04(GUI Assignment)\GUI-2022E126\GUI-2022E126\x64\Debug\GUI-2022E126.vcxproj.AssemblyReference.cache
+E:\C++\Lab04(GUI Assignment)\GUI-2022E126\GUI-2022E126\x64\Debug\GUI2022E126.MyForm.resources
+E:\C++\Lab04(GUI Assignment)\GUI-2022E126\GUI-2022E126\x64\Debug\GUI-2022E126.vcxproj.GenerateResource.cache

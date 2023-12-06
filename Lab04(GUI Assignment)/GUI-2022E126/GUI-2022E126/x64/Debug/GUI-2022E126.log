@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+E:\C++\Lab04(GUI Assignment)\GUI-2022E126\GUI-2022E126\MyForm.h(226,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUI-2022E126.vcxproj -> E:\C++\Lab04(GUI Assignment)\GUI-2022E126\x64\Debug\GUI-2022E126.exe
